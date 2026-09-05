@@ -46,4 +46,4 @@ killall Dock
 会关闭所有可见应用，未保存的文档可能丢失。第二轮强制 kill 前有 3 秒缓冲。
 
 ## License
-MIT
+GNU AGPL-3.0v3 (GNU Affero General Public License v3.0)
